@@ -1,6 +1,6 @@
 ## Opaa, eu sou o André, e esse é meu portfólio!
 - 👨‍🎓 Eu estou terminando o ensino médio, e estou estudando bastante para os vestibulares!
-- 🌱 Atualmente estou fazendo um bootcamp do Itaú, e estudando as linguagens front-end...
+- 🌱 Atualmente estou fazendo treinamento no Itaú, e estudando Java, .NET e JavaScript...
 
 <div>
   <a href="https://github.com/AndreEsposito">
