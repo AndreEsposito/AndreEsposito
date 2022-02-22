@@ -1,6 +1,6 @@
 ## Opaa, eu sou o André e esse é meu portfólio!
 - 👨‍🎓 Eu acabei de terminar o ensino médio e estou em treinamento no Itau-unibanco!
-- 🌱 Atualmente estou estudando back-end e AWS...
+- 🌱 Atualmente estou me aprofundando em algumas linguagens back-end...
 
 <div>
   <a href="https://github.com/AndreEsposito">
