@@ -1,6 +1,6 @@
 ## Opaa, eu sou o André e esse é meu portfólio!
-- 👨‍🎓 Eu acabei de terminar o ensino médio e estou em treinamento no Itau-unibanco!
-- 🌱 Atualmente estou me aprofundando em algumas linguagens back-end...
+- 👨‍🎓 Entrei no Itaú, através de um bootcamp e atualmente estou como Engenheiro de Software Junior na comunidade Agro do Itaú.
+- 🌱 Atualmente estou fazendo faculdade de Ciência da Computação e estudando AWS...
 
 <div>
   <a href="https://github.com/AndreEsposito">
